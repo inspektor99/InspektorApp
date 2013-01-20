@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inspektor!</string>
+    <string name="dummy_content">Inspektor Rules Balls</string>
+    <string name="dummy_button">Next Activity</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_item_list">Items</string>
+
+</resources>
